@@ -74,7 +74,7 @@ git拉取项目
 $ git clone https://github.com/Flipped0213/HR.git
 ```
 
-**安装项目依赖**（定位到项目目录下）
+安装项目依赖（定位到项目目录下）
 
 ```base
 $ npm install  #安装依赖
