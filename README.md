@@ -18,53 +18,53 @@
 
 Vuex的action的调用以及Axios拦截器的异常处理
 
-![](D:\OneDrive\桌面\1.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/1.png)
 
 ### 主页模块
 
 运用Token的拦截和处理，自定义指令的设计和应用，实现登出功能
 
-![](D:\OneDrive\桌面\2.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/2.png)
 
-![](D:\OneDrive\桌面\2-1.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/2-1.png)
 
 ### 组织架构
 
 Element组件的使用
 
-![](D:\OneDrive\桌面\3.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/3.png)
 
 ### 公司和角色
 
 
 
-![](D:\OneDrive\桌面\4.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/4.png)
 
 ### 员工管理
 
-![](D:\OneDrive\桌面\5.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/5.png)
 
 ### 权限设计和管理
 
-![](D:\OneDrive\桌面\6.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/6.png)
 
 ### 其他模块（社保、审批、考勤、工资）
 
 社保模块
 
-![](D:\OneDrive\桌面\7.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/7.png)
 
 审批
 
-![](D:\OneDrive\桌面\8.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/8.png)
 
 考勤
 
-![](D:\OneDrive\桌面\9.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/9.png)
 
 工资
 
-![](D:\OneDrive\桌面\10.png)
+![](https://github.com/Flipped0213/HR/blob/main/pic/10.png)
 
 ## 项目运行
 
