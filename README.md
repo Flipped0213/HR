@@ -12,6 +12,8 @@
 
 这里是[线上demo地址](https://panjiachen.github.io/vue-element-admin/#/dashboard)
 
+**`注意`**：[基础模板](https://github.com/PanJiaChen/vue-element-admin.git)，包含了基本的 **登录 / 鉴权 / 主页布局** 的一些基础功能模板, 其他模块是我直接在该模板上进行功能的扩展和项目的二次开发
+
 ## 1.2 项目介绍
 
 ### 登录模块
@@ -85,4 +87,3 @@ $ npm install  #安装依赖
 ```base
 $ npm run dev #启动开发模式的服务
 ```
-
